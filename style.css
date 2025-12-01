@@ -1,4 +1,16 @@
-h1 {
-    color: navy;
+header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 
+h1 {
+    font-size: 75px;
+    color: navy;
+    margin: 0, auto;
 }
+
+p {
+    font-size: 25px;
+}
+}
+
