@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+.header {
+  background-color: blueviolet;
+  height: 500px;
+  padding: 50px;
+}
